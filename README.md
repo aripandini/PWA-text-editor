@@ -8,6 +8,20 @@ This Text Editor App is a single page application that meets PWA criteria. It fe
 
 ## Application
 
-![Functionality]()
+_Functionality:_
+![Functionality](./screenshots/functionality.png)
+![Functionality](./screenshots/functionality2.png)
+
+_Manifest.json:_
+![Manifest](./screenshots/manifest.png)
+
+_Registered Service Worker:_
+![Service Worker](./screenshots/serviceworker.png)
+
+_IndexedDB Storage:_
+![IndexedDB](./screenshots/indexedDB.png)
+
+
+
 
 
